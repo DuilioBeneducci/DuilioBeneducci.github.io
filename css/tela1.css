@@ -1,8 +1,5 @@
-
-
 #header{
 	padding: 3rem;
-	color: black;
 	font-size: 5vw;
 	text-align: center;
 	text-decoration:none ;
@@ -18,19 +15,14 @@
 	font-size: 5vw;
 	justify-content: center;
 	float: center;
-	
-	
  }
 
-
 #conteudo{
-
 	padding: 1em;
 	text-align: center;
 }
 
 a{
-
 	text-decoration:none;
 	padding: 0.8em;
 	color: #73142D;
@@ -44,15 +36,11 @@ a{
 	margin-bottom: 0em;
 	margin-right: 1em;
 	margin-left: 1em;
-	
 	border-color: #FF705D;
-  	border-style: solid;
-  	
-
+  	border-style: solid;	
 }
 
 #footer{
-
 	font-size: 3vw;
 	text-align: center;
 }
@@ -79,12 +67,10 @@ img{
 }
 
 input{
-
 	width: 10rem;
 	height: 10rem;
 	font-size: 5vw;
 	border-radius: 5rem;
 	border-color: solid-black;
 	border-width: 0.8rem;
-
 }

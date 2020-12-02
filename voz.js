@@ -1,6 +1,6 @@
 
 var recognition = new webkitSpeechRecognition();
-	recognition.continuous = true;
+	recognition.continuous = false;
 	//recognition.interimResults = true;
 	function start(){
 		recognition.onresult = function(event) { 

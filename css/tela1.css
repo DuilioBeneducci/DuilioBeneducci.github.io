@@ -1,4 +1,5 @@
 #header{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	padding: 3rem;
 	font-size: 5vw;
 	text-align: center;
@@ -9,6 +10,7 @@
 	color: #f20505;
 }
 #container{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 5vw;
@@ -16,10 +18,12 @@
 	float: center;	
  }
 #conteudo{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	padding: 1em;
 	text-align: center;
 }
 a{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	text-decoration:none;
 	padding: 0.8em;
 	color: #73142D;
@@ -37,6 +41,7 @@ a{
   	border-style: solid;
 }
 #footer{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	font-size: 3vw;
 	text-align: center;
 }
@@ -52,6 +57,7 @@ img{
 	margin-left: 2em;
 }
 .titulos{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	text-decoration:none ;
 	display: flex;
 	align-items: center;
@@ -60,10 +66,14 @@ img{
 	color: #D95276;
 }
 input{
+	font-family: 'Quicksand', sans-serif,'Comfortaa', cursive;
 	width: 10rem;
 	height: 10rem;
 	font-size: 5vw;
 	border-radius: 5rem;
 	border-color: solid-black;
 	border-width: 0.8rem;
+}
+li{
+	font-family: 'Poly', serif,'Lora', serif;
 }
